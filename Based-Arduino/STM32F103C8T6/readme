@@ -1,0 +1,17 @@
+Specification
+
+- ARM32 Cortex-M3
+- 72 Mhz
+- 33 I/O pins
+- SRAM       : 20KiB  (512b reserved by bootloader)
+- Raw Flash  : 64Kib
+- Flash      : 128KiB (sector size: 4x1024)
+- Option RAM : 16b
+- System RAM : 2KiB
+
+
+========Connection=============
+
+
+
+pinLED PC13

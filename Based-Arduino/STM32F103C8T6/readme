@@ -10,7 +10,7 @@ Specification
 - System RAM : 2KiB
 
 
-========-Connection-=============
+============-Connection-=============
 
 Requared: Serial-to-USB-module (3.3V level, e.g. CH340)
 

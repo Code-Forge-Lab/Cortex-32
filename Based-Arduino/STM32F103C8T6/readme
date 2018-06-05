@@ -21,4 +21,27 @@ GND              ->       GND
 RX               ->       PA9
 TX               ->       PA10
 
+
+-------------------------------------
+==========-Example-==================
+
+// Set up led fash and Serial comunication.
+#define pinLED PC13
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(pinLED, OUTPUT);
+  Serial.println("START");  
+}
+
+void loop() {
+  digitalWrite(pinLED, HIGH);
+  delay(1000);
+  digitalWrite(pinLED, LOW);
+  delay(500);
+  Serial.println("Hello World");  
+}
+
+
+--------------------------------------
 pinLED PC13

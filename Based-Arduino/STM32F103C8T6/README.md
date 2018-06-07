@@ -8,7 +8,7 @@
 - Flash      : 128KiB (sector size: 4x1024)
 - Option RAM : 16b
 - System RAM : 2KiB
-
+- 12-bit(4096) Analog Read , _PWM_. 
 
 # Connection #
 

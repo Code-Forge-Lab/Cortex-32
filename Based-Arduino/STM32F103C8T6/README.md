@@ -23,8 +23,12 @@
 
 
 ![connection to computer](http://grauonline.de/wordpress/wp-content/uploads/arduino_stm32f103c8t6.jpg)
+# Analog Digital #
 ![blue pill information](https://github.com/Code-Forge-Lab/Cortex-32/blob/master/Based-Arduino/STM32F103C8T6/stm32f103c8t-PinOut.gif)
 
+# More Information #
+
+![blue pill information2 ](https://github.com/Code-Forge-Lab/Cortex-32/blob/master/Based-Arduino/STM32F103C8T6/stm32f103c8t6_pinout_voltage01.png)
 # Example #
 
  > **_Blink_**

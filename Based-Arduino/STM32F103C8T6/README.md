@@ -10,22 +10,22 @@
 - System RAM : 2KiB
 
 
-============-Connection-=============
+# ============-Connection-============= #
 
-Requared: Serial-to-USB-module (3.3V level, e.g. CH340)
+* Requared: Serial-to-USB-module (3.3V level, e.g. CH340)
 
 
-Serial-USB       to       STM32
-GND              ->       GND
-5v               ->       5v
-RX               ->       PA9
-TX               ->       PA10
+* Serial-USB       to       STM32
+* GND              ->       GND
+* 5v               ->       5v
+* RX               ->       PA9
+* TX               ->       PA10
 
 
 -------------------------------------
-==========-Example-==================
+# ==========-Example-================== #
 
-** > Blink **
+ # > Blink #
 
 ```c
 // Set up led fash and Serial comunication.

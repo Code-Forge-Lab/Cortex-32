@@ -52,6 +52,10 @@ void loop() {
 
 
 ```c
+
+
+
+
 // the setup function runs once when you press reset or power the board
 void setup() {
 
@@ -93,11 +97,11 @@ void loop() {
 
 
     // condition what to do if getting any instruction
-    if ( strcmp (incomingByte, "banana")== 0  ) 
-       Serial.print ("Command 'banana' accepted");
+    if ( strcmp (incomingByte, "alive")== 0  ) 
+       Serial.print ("Command 'alive' accepted");
        
-    if (strcmp (incomingByte,"bucket") == 0 ) // compare char if math
-       Serial.print ("Command 'bucket' accepted");   
+    if (strcmp (incomingByte,"responde") == 0 ) // compare char if math
+       Serial.print ("Command 'responde' accepted");   
 // turn on led
     if (strcmp (incomingByte,"on") == 0 ) 
        {

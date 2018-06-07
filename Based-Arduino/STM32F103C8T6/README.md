@@ -25,7 +25,7 @@
 -------------------------------------
 # -Example- #
 
- > # Blink #
+ > ** Blink **
 
 ```c
 // Set up led fash and Serial comunication.
@@ -52,7 +52,7 @@ void loop() {
 # -Example- #
 
 
-** > Serial Send Instruction To Microcontroler , Read Analog Values **
+> ** Serial Send Instruction To Microcontroler , Read Analog Values **
 
 
 ```c

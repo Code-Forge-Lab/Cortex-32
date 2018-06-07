@@ -24,7 +24,9 @@ TX               ->       PA10
 
 -------------------------------------
 ==========-Example-==================
-```
+```cpp
+
+
 // Set up led fash and Serial comunication.
 #define pinLED PC13
 
@@ -42,10 +44,12 @@ void loop() {
   Serial.println("Hello World");  
 }
 
+
+
 ```
 --------------------------------------
 ==========-Example-==================
-```
+```cpp
 
 
 // the setup function runs once when you press reset or power the board
@@ -129,6 +133,8 @@ void clearChar ( char *characters , int size ){
              characters[x]  = '\0';
           }
   }
+  
+  
  ``` 
------------------------------------
+--------------------------------------
 pinLED PC13

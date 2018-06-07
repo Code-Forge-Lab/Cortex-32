@@ -23,6 +23,7 @@
 
 
 ![connection to computer](http://grauonline.de/wordpress/wp-content/uploads/arduino_stm32f103c8t6.jpg)
+![blue pill information](https://github.com/Code-Forge-Lab/Cortex-32/blob/master/Based-Arduino/STM32F103C8T6/stm32f103c8t-PinOut.gif)
 
 # Example #
 

@@ -1,4 +1,4 @@
-##Specification##
+## Specification ##
 
 - ARM32 Cortex-M3
 - 72 Mhz
@@ -25,7 +25,7 @@ TX               ->       PA10
 -------------------------------------
 ==========-Example-==================
 
- > Blink
+* > Blink
 
 ```c
 // Set up led fash and Serial comunication.

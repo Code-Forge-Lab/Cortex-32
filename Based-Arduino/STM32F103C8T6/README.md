@@ -25,7 +25,7 @@
 -------------------------------------
 # -Example- #
 
- > _Blink_
+ > **_Blink_**
 
 ```c
 // Set up led fash and Serial comunication.

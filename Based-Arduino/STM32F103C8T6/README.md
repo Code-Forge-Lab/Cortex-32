@@ -25,7 +25,7 @@
 -------------------------------------
 # -Example- #
 
- > ** Blink **
+ > ** _Blink_ **
 
 ```c
 // Set up led fash and Serial comunication.
@@ -52,7 +52,7 @@ void loop() {
 # -Example- #
 
 
-> **Serial Send Instruction To Microcontroler , Read Analog Values**
+> **Serial Send Instruction To Microcontroler , _Read Analog Values_**
 
 
 ```c
@@ -105,7 +105,7 @@ void loop() {
 // turn on led
     if (strcmp (incomingByte,"on") == 0 ) 
        {
-          digitalWrite(PB11, 4000);
+          digitalWrite(PB11, 4095);
         }
 
  // turn off led

@@ -22,7 +22,8 @@
 * TX               ->       PA10
 
 
--------------------------------------
+![connection to computer](http://grauonline.de/wordpress/wp-content/uploads/arduino_stm32f103c8t6.jpg)
+
 # Example #
 
  > **_Blink_**
@@ -140,5 +141,5 @@ void clearChar ( char *characters , int size ){
 ``` 
   
  
-## ------------------------------------- ##
-pinLED PC13
+
+

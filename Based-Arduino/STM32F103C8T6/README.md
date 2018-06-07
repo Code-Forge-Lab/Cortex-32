@@ -111,7 +111,7 @@ void loop() {
 // turn on led
     if (strcmp (incomingByte,"on") == 0 ) 
        {
-          digitalWrite(PB11, 4095);
+          digitalWrite(PB11, 4095); // output 3.5v **_max_**.
         }
 
  // turn off led
@@ -128,7 +128,7 @@ void loop() {
    delay(1000);    
 
 
-   Serial.println (" input "+String (analogRead (PB1 )) + " ");
+   Serial.println (" input "+String (analogRead (PB1 )) + " "); // only can tolerate 3.4v **_max_**.
    Serial.println ("-"); 
      
                  // wait for a second

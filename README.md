@@ -6,6 +6,6 @@ More Memory and more power.
 - [Cortex-A](https://en.wikipedia.org/wiki/ARM_Cortex-A)
 ## Chips ##
 
-![ARM](https://en.wikipedia.org/wiki/ARM_Cortex-M#/media/File:ARM_Cortex-M0_and_M3_ICs_in_SMD_Packages.jpg)
+![ARM](https://github.com/Code-Forge-Lab/Cortex-32/blob/master/images/stm32f103c8t-PinOut.gif)
 
 

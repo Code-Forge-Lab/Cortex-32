@@ -6,6 +6,6 @@ More Memory and more power.
 - [Cortex-A](https://en.wikipedia.org/wiki/ARM_Cortex-A)
 ## Chips ##
 
-![ARM](https://github.com/Code-Forge-Lab/Cortex-32/blob/master/images/stm32f103c8t-PinOut.gif)
+![ARM](https://github.com/Code-Forge-Lab/Cortex-32/blob/master/images/220px-STM32F100C4T6B-HD.jpg)
 
 

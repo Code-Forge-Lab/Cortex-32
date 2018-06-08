@@ -5,7 +5,7 @@ More Memory and more power.
 
 - [Cortex-A](https://en.wikipedia.org/wiki/ARM_Cortex-A)
 ## Chips ##
- > STM32F100C4T6B
+ > **_STM32F100C4T6B_**
  ## ##
 ![ARM](https://github.com/Code-Forge-Lab/Cortex-32/blob/master/images/800px-STM32F100C4T6B-HD.jpg)
 

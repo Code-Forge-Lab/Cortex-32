@@ -1,4 +1,4 @@
-# Cortex 32-64
+# Cortex 32-64bit
 More Memory and more power.
 # Wiki #
 - [ Cortex-M ](https://en.wikipedia.org/wiki/ARM_Cortex-M) 

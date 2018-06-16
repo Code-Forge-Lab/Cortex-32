@@ -61,9 +61,6 @@ Up to 9 communication interfaces
 - USB 2.0 full speed interface
 CRC calculation unit, 96-bit chip unique code
 
-Package included:
-
-   1*STM32F103C8T6 Micro USB controller STM32 Development ARM Learning Board
 
 # Connection #
 

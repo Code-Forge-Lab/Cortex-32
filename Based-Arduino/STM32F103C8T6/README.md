@@ -5,7 +5,7 @@
 - 33 I/O pins
 - SRAM       : 20KiB  (512b reserved by bootloader)
 - Raw Flash  : 64Kib
-- Flash      : 64k if _lucky_ 128KiB (sector size: 4x1024)
+- Flash      : 64k, if _lucky_ **128KiB** (sector size: 4x1024)
 - Option RAM : 16b
 - System RAM : 2KiB
 - 12-bit(4096) Analog Read , _PWM_. 

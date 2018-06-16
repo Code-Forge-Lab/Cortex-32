@@ -10,6 +10,61 @@
 - System RAM : 2KiB
 - 12-bit(4096) Analog Read , _PWM_. 
 
+# More Details #
+
+Kernel: ARM 32-bit Cortex ™ -M3 CPU
+- Up to 72MHz operating frequency
+- Single cycle multiplication and hardware division
+
+Memory
+- from 64K or 128K bytes of Flash program memory
+- up to 20K bytes of SRAM
+
+Clock, reset and power management
+- 2.0 ~ 3.6 V power supply and I / O pins
+- Power-on / Power-down Reset (POR / PDR), Programmable Voltage Monitor (PVD)
+- 4 ~ 16MHz crystal oscillator
+- Built-in factory-adjusted 8MHz RC oscillator
+- Built-in calibrated 40kHz RC oscillator
+- the PLL that generates the CPU clock
+- 32kHz RTC oscillator with calibration function
+
+Low power consumption
+- sleep, stop and standby modes
+- V BAT powers the RTC and back-up registers
+
+2 12-bit analog-to-digital converters, 1us conversion time (up to 16)
+- Conversion range: 0 to 3.6V
+- Double sampling and hold function
+- temperature sensor
+
+DMA:
+- 7-channel DMA controller
+- Supported peripherals: timers, ADC, SPI, I 2 C and USART
+
+Up to 80 fast I / O ports
+- 26/37/51/80 I / O ports, all I / O ports can be mapped to 16 external interrupts; almost all ports can tolerate 5V signals
+
+Debug mode
+- Serial single line debug (SWD) and JTAG interface
+
+Up to 7 timers
+- 3 16-bit timers, each with up to 4 channels for input capture / output compare / PWM or pulse count and incremental encoder inputs
+- 1 16-bit PWM controller with dead-zone control and emergency brake for motor control
+- 2 watchdog timers (standalone and window type)
+- System time timer: 24-bit self-decrement counter
+
+Up to 9 communication interfaces
+- Up to 2 I 2 C interfaces (SMBus / PMBus supported)
+- Up to 2 USART interfaces (ISO7816 interface, LIN, IrDA interface and modem control) Up to 2 SPI interfaces (18Mbit / s)
+- CAN interface (2.0B active)
+- USB 2.0 full speed interface
+CRC calculation unit, 96-bit chip unique code
+
+Package included:
+
+   1*STM32F103C8T6 Micro USB controller STM32 Development ARM Learning Board
+
 # Connection #
 
 * Requared: Serial-to-USB-module (3.3V level, e.g. CH340)

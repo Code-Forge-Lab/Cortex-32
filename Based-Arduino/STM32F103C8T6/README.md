@@ -111,7 +111,7 @@ void loop() {
 
 
 > **Serial Send Instruction To Microcontroler , _Read Analog Values_**
-- Also wowrks on **_AVR-Arduino_**
+- Also works on **_AVR-Arduino_**
 
 ```c
 // the setup function runs once when you press reset or power the board
